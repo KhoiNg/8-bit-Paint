@@ -7,4 +7,5 @@ Language: Assembly NASM (Netwide Assembler) x86.
   1) nasm -f elf paint.asm
   2) gcc -g -m32 -o paint.o
   
+Made by Khoi Nguyen
   
